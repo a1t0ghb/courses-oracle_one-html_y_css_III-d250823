@@ -9,6 +9,9 @@
 <p align="left">
   <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-WIP-yellow?style=flat" /></a>
 </p>
+<!--
+🚧 WIP: section under construction. 🚧
+-->
 
 <!-- Badge: Done
 <p align="left">
@@ -24,3 +27,5 @@
 -->
 
 # Basics of HTML and CSS (III).
+
+🚧 WIP: section under construction. 🚧
